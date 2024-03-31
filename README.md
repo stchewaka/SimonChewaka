@@ -18,5 +18,5 @@ Tech Experience
 Business
 
 ### Contact Information
-Email:
-Phone Number:
+Email: stchewaka@gmail.com
+For phone number, send an message to the email above.
