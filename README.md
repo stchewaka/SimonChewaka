@@ -1,7 +1,8 @@
 # Information Technology
 
 ### Biography
-My name is Simon Chewaka,
+My name is Simon Chewaka, I'm currently a senior at University of Missouri-Kansas City majoring in Information Technology and minoring in Business Administration. Once I graduate I do plan on getting my Masters. My big future plan would be setting up bootcamps
+in my home country Ethiopia. I want the next generation to modernize my country.
 
 ### Education Background
 Description
