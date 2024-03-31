@@ -1,3 +1,22 @@
-# SimonChewaka
-Short Resume Project using HTML CSS JS
-Creating a portfolio website using Github
+# Information Technology
+
+### Biography
+My name is Simon Chewaka,
+
+### Education Background
+Description
+Course Taken
+
+### Skills
+TYpes of Skills
+
+### Projects
+Some Projects and description
+
+### Work Experience
+Tech Experience
+Business
+
+### Contact Information
+Email:
+Phone Number:
