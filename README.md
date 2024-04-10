@@ -40,10 +40,21 @@ Back in 2019 a couple of classmates and I made a sensory belt for the blind. The
 ● Utilized Material UI to build responsive front-end elements and gain exposure to web/app development concepts.
 ● Sharpened JavaScript fundamentals and gained an intermediate understanding of React.
 
+#### SOS Game, Personal Project Spring 2024
+●	Simple/General game built using Java in Eclipse
+●	Simple Game winner is decided when the first user gets SOS
+●	General Game The game continues until the board has been filled up. The winner is the player who made the most SOSs. If both players made the same number of SOSs, then the game is a draw.
+●	Coding requirements: separation of user interface and game logic; unit testing design and refactoring: class diagram, inheritance
+
+
 ### Work Experience
 #### CMA Group LLC, Overland Park, KS: Operations Associate 04/2021 - 06/2021
 ● Completed printing and formatting tasks using Adobe InDesign while faxing/auditing documents.
 ● Utilized Microsoft Excel to complete data entry projects for client retention.
+
+#### Garmin Ltd, Overland Park, KS:  Electronic Technician Apprentice	05/2022 - 07/2022
+●	Conducted precise retrieval and meticulous auditing of materials to fulfill KANBAN, movement order, and sales order prerequisites.
+●	Collaborated with cross-functional teams to troubleshoot and resolve technical issues, contributing to the timely completion of projects and ensuring the seamless operation of electronic systems.
 
 ### Contact Information
 Email: stchewaka@gmail.com
